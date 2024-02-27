@@ -19,7 +19,7 @@ const Foot = () => {
             <a href="https://www.facebook.com/profile.php?id=100025287413664">
               <Facebook color="black" size={"3rem"} />
             </a>
-            <a href="https://github.com/satkumar09/quizweb">
+            <a href="https://github.com/Debjit14122000/Quiz_Website_React">
               <Gitub color="black" size={"3rem"} />
             </a>
           </div>
